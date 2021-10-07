@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1927#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 7. Wrong answer\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\n3 4\n11 12 13 14\n21 22 23 24\n31 32 33 34\nCorrect\
+    \ output:\n31 21 11 \n32 22 12 \n33 23 13 \n34 24 14\n\nYour code output:\n90\
+    \ 80 70 60 50 40 30 20 10 \n91 81 71 61 51 41 31 21 11 \n92 82 72 62 52 42 32\
+    \ 22 12 \n93 83 73 63 53 43 33 23 13 \n94 84 74 64 54 44 34 24 14 \n95 85 75 65\
+    \ 55 45 35 25 15 \n96 86 76 66 56 46 36 26 16 \n97 87 77 67 57 47 37 27 17 \n\
+    98 88 78 68 58 48 38 28 18 \n99 39 79 39 59 49 39 29 19\n"
+  time: Mon, 04 Oct 2021 12:56:34 UTC
+record: -1
